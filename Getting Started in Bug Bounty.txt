@@ -1,0 +1,156 @@
+
+What is Bug Bounty?
+If you go to Google Baba & Search What is Bug Bounty you will get :
+A reward offered to a person who identifies an error or vulnerability in a computer program or system Identification and reporting of bugs and vulnerability in a responsible way.
+
+What to study?
+• Internet, HTTP, TCP/IP
+• Networking
+• Command-line
+• Linux
+• Web technologies, java-script, PHP, java
+• At least 1 programming language (Python/C/JAVA/Ruby..)
+• Owasp top 10
+
+Choose your path:
+• Web pentesting
+• Android Application Pentesting
+• IOS Application Pentesting
+
+Books:
+
+For Web:
+• Web app hackers handbook
+• Web hacking 101
+• Mastering modern web pen testing
+• Bug Bounty Playbook
+• Real World Bug Hunting
+• OWASP Testing Guide.
+
+For Mobile:
+• Mobile application hacker’s handbook
+
+YouTube Channels:
+• Live Overflow — https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+• Hackersploit –https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos
+• Bugcrowd — https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
+• Open Security Training — https://www.youtube.com/user/OpenSecurityTraining
+• Hackerone –https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
+• Stok — https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+• nahamsec — https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
+• CyberMentor — https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw
+
+Follow these guys on Twitter:
+TomNomNom
+stokfredrik
+NahamSec
+Gaurav Narvani
+ADITYASHENDE17
+armaanpathan
+Jenish Sojitra
+shubhampatel
+
+Write-ups, Articles, Blogs:
+• Medium (infosec writeups)
+• HackerOne Hack activity
+• Portswigger
+• Reddit (Netsec)
+• DEFCON conference videos
+• Forums
+
+Practice:
+Practice like you’ve never won, Perform like you’ve never lost. !
+
+Resources to Learn:
+
+Testing Labs:
+• PortSwigger Academy
+• OWASP juice shop
+• DVWA
+• bWAPP
+• Vulnhub
+• pentester academy
+• pentestlab
+• Metasploitable
+• Pentester Academy
+• CTF365
+• Hack the box
+
+Tools:
+• Burpsuite
+• nmap
+• dirbuster
+• sublist3r
+• Netcat
+• OwaspZap
+• Kali Linux
+• Sqlmap
+
+Types of Bug Bounty program:
+• Only Hall of Fame
+• Hall of Fame With Certificate of Appreciation
+• HoF with Swags / only Swags
+• Hall of Fame with Bounty
+• Only Bounty
+
+Bug Bounty Platform
+
+Bug Bounty Program:
+• Open For Signup
+• Hackerone
+• Bugcrowd
+• hackenproof
+• Bugbountyjp
+• Intigriti
+• Open Bug Bounty
+• Yogosha
+
+Invite based Platforms:
+• Synack
+• Cobalt
+
+Choose wisely (first not for bounty)
+
+Select a bug for hunt
+
+Exhaustive search
+
+Not straight forward always
+
+Report Writing/Bug Submission:
+• Create a descriptive report.
+• Follow responsible disclosure
+• Create POC and steps to reproduce
+
+Sample format of report:
+• Vulnerability Name
+• Vulnerability Description
+• Vulnerable URL
+• Payload
+• Steps to Reproduce
+• Impact
+• Mitigation
+
+Vulnerabilities Priorities:
+• P1 -Critical: Vulnerabilities that cause a privilege escalation from unprivileged to admin or allow for remote code execution, financial theft, etc.
+• P2 -High: Vulnerabilities that affect the security of the software and impact the processes it supports.
+• P3 -Medium: Vulnerabilities that affect multiple users and require little or no user interaction to trigger.
+• P4 -Low: Vulnerabilities that affect singular users and require interaction or significant prerequisites to trigger (MitM) to trigger.
+• P5 -Informational: Non-exploitable vulnerabilities in functionality. Vulnerabilities that are by design or are deemed an acceptable business risk to the customer.
+
+Looking for more programs:
+• inurl:”bug bounty” and intext:”€” and inurl:/security
+• intext:bounty inurl:/security
+• intext:”BugBounty” and intext:”BTC” and intext:”reward“
+• intext:”BugBounty” and inurl:”/bounty” and intext:”reward
+
+Words of wisdom:
+• PATIENCE IS THE KEY, takes years to master, don’t fall for overnight success
+• Do not expect someone will spoon feed you everything.
+• Confidence
+• Not always for bounty
+• Learn a lot.
+• Won’t find at the beginning, don’t lose hope
+• Stay focused
+• Depend on yourself
+• Stay updated with infosec world
